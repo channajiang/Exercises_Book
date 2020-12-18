@@ -1,0 +1,16 @@
+# https://www.jianshu.com/p/bbbab7fa77a2
+# https://www.runoob.com/w3cnote/ten-sorting-algorithm.html
+# https://leetcode-cn.com/problems/sort-an-array/solution/python-shi-xian-de-shi-da-jing-dian-pai-xu-suan-fa/
+# http://www.python3.vip/tut/py/extra/json/
+# https://www.liaoxuefeng.com/wiki/1016959663602400
+# https://www.pythonf.cn/read/92929
+# https://www.runoob.com/w3cnote/summary-of-network.html
+# https://labs.play-with-docker.com/
+# https://www.cnblogs.com/pyedu/p/12461819.html
+
+# 时间复杂度 O(1) < O(logN)【二分算法】< O(N) < O(NlogN) < O(N**2) < O(2**n) < O(n!)
+# 空间复杂度 O(1) < O(N) < O(N**2)
+# 时间 > 空间
+# https://www.cnblogs.com/anliux/p/12918452.html  页面加载慢
+# https://www.cnblogs.com/anliux/p/12918396.html  页面很卡
+#iOS是用swift语言，Android用kotlin语言
